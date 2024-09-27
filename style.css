@@ -38,6 +38,9 @@
   
     font-size: 25px;
   }
+  button:hover{
+    color: red;
+  }
   
   h1 {
     padding-left: 15px;
